@@ -22,6 +22,9 @@
 
 | 项目 | 简介 |
 | --- | --- |
+| [dsh-plugins](https://github.com/guilianerde/dsh-plugins) | DeepSeek Harness 插件合集，扩展桌面端浏览器操作和会话管理能力。 |
+| [skills-init](https://github.com/guilianerde/skills-init) | 为多种编程代理安装项目级 Skills，覆盖开发、审查与文档工作流。 |
+| [DocNexus](https://github.com/guilianerde/docnexus) | 面向编程代理的本地项目记忆工具，支持知识记录、检索与溯源。 |
 | [Outlook Email Plus](https://github.com/guilianerde/outlookEmailPlus) | 面向注册和验证场景的邮箱管理工具，支持多种邮箱接入与自动化接口。 |
 | [codex-console](https://github.com/guilianerde/codex-console) | 基于上游项目的增强与维护版本，提供 Web 管理界面和任务管理能力。 |
 | [bookkeeping-mini](https://github.com/guilianerde/bookkeeping-mini) | 记账相关的小程序项目。 |
